@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * 
  * @author Alucardxy
- * @date 2015年12月25日 下午10:00:05
+ * 2015年12月25日 下午10:00:05
  *
  */
 public class KryoWithSpecialObjectInput extends KryoObjectInput {

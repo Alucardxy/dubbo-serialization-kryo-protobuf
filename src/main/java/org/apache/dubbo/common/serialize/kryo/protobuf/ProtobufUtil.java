@@ -12,9 +12,8 @@ import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * 
- * @Description: TODO
  * @author Alucardxy
- * @date 2015年12月25日 下午10:00:46
+ * 2015年12月25日 下午10:00:46
  *
  */
 public class ProtobufUtil {
@@ -34,8 +33,10 @@ public class ProtobufUtil {
 	
 	/**
 	 * 根据protobuf类型解析
-	 * @param 
-	 * @return
+	 * @param className 类名称
+	 * @param data 解码前字节数组
+	 * @return 解码后的对象
+	 * @throws IOException IO异常
 	 */
 	public static Object parseFrom(String className, byte[] data) throws IOException {
 		try {

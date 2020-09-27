@@ -16,10 +16,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 
- * @Description: TODO
+ *
  * @author Alucardxy
- * @date 2015年12月25日 下午10:00:27
+ * 2015年12月25日 下午10:00:27
  *
  */
 public class KryoWithSpecialObjectOutput extends KryoObjectOutput {

@@ -7,9 +7,8 @@ import java.io.IOException;
 
 /**
  * 
- * @Description: TODO
  * @author Alucardxy
- * @date 2015年12月25日 下午10:00:38
+ * 2015年12月25日 下午10:00:38
  *
  */
 public class ProtobufSerializeFactory implements SpecialSerializeFactory {

@@ -16,7 +16,7 @@ import java.io.OutputStream;
 /**
  * 
  * @author Alucardxy
- * @date 2015年12月25日 下午9:59:54
+ * 2015年12月25日 下午9:59:54
  *
  */
 public class KryoWithProtobufSerialization implements Serialization {
